@@ -19,8 +19,8 @@ The goal of the project is to automate the data processing from the IT system an
 - Option to select a sales channel.
 
 ### Technologies Used
-Python: Primary programming language used for data manipulation and creating Dash applications.
-Dash: Framework for building user interfaces in Python, ideal for constructing interactive dashboards.
-Dash Auth: Library for user authentication in Dash applications.
-Plotly: Library enabling the creation of interactive charts and data visualizations.
-Pandas: Library for data manipulation and analysis in Python.
+- Python: Primary programming language used for data manipulation and creating Dash applications.
+- Dash: Framework for building user interfaces in Python, ideal for constructing interactive dashboards.
+- Dash Auth: Library for user authentication in Dash applications.
+- Plotly: Library enabling the creation of interactive charts and data visualizations.
+- Pandas: Library for data manipulation and analysis in Python.
